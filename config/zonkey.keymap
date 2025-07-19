@@ -169,7 +169,7 @@
 &kp N1  &kp N2  &kp N3  &kp N4            &kp N5                       &kp N6     &kp N7        &kp N8     &kp N9    &kp N0
 &trans  &trans  &trans  &trans            &trans  &trans       &trans  &kp EQUAL  &parenthesis  &brace     &bracket  &less_greater
 &trans  &trans  &trans  &trans            &trans  &trans       &trans  &kp BSLH   &pgup_dn      &home_end  &trans    &trans
-&trans  &trans  &trans  &lt 0 LANGUAGE_2  &trans  &lt 3 TAB            &trans     &trans                                            &trans
+&trans  &trans  &trans  &lt 4 LANGUAGE_2  &trans  &lt 3 TAB            &trans     &trans                                            &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;
